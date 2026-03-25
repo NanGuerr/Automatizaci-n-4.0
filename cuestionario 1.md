@@ -65,4 +65,13 @@
 
 ---
 
-###
+### 🚧 ¿Qué es la resistencia en un circuito eléctrico?
+* **Respuesta correcta:** La propiedad de los materiales para oponerse al flujo de corriente eléctrica. 🛑
+
+---
+
+### 📐 ¿Cómo se expresa matemáticamente la ley de Ohm?
+* $V = I \cdot R$
+* $I = \frac{V}{R}$
+* $R = \frac{V}{I}$
+* **Respuesta correcta:** Todas son correctas. 📝
