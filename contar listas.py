@@ -31,3 +31,24 @@ ok = len([s for s in estadoSensores if s is False])
 
 print(f"OK: {ok}")
 print(f"Falla: {falla}")
+
+# Imprimir resultados usando if y append
+# Creamos listas vacías para separar los estados
+lista_ok = []
+lista_falla = []
+
+# Recorremos la lista original
+for sensor in estadoSensores:
+    if sensor == True:
+        lista_falla.append(sensor)
+    else:
+        lista_ok.append(sensor)
+
+# Usamos len() para obtener las cantidades y armar el diccionario
+resultados = {
+    "OK": len(lista_ok),
+    "Falla": len(lista_falla)
+}
+
+# Print final con formato textual
+print(f"Hay {resultados['OK']} Sensores ok y {resultados['Falla']} Sensores en falla")
