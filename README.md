@@ -33,6 +33,6 @@ El programa se divide en pilares fundamentales para la transformación digital i
 Contiene módulos de **Python**, **OpenCV**, **EPLAN** y **Comunicaciones Industriales**. También perfecciona habilidades transversales mediante el curso de **Technical English** (A0-B1).
 
 ---
-*Nota: Este repositorio se actualizará con +1,500 actividades de aprendizaje del programa.*
 
 ### *¡Mucho éxito con esos despliegues en Docker y las automatizaciones en TIA Portal!* ###
+*Nota: Este repositorio se actualizará con todas las actividades de aprendizaje del programa (+1,500).*
