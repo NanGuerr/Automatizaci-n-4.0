@@ -1,4 +1,4 @@
-# 📘 Trayecto de Formación: Automatización e Industria 4.0
+# 📘 Trayecto de Formación
 
 ### 🇬🇧 Comunicación Técnica
 * **Technical English Course Level 1, 2 y 3** 🗣️📚
