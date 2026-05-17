@@ -1,6 +1,6 @@
 # 📘 Trayecto de Formación
 
-*Aquí tienes la ruta sugerida, desde lo más básico (fundamentos) hasta lo más complejo y especializado (Industria 4.0 e IA).*
+*Ruta sugerida, desde lo más básico (fundamentos) hasta lo más complejo y especializado (Industria 4.0 e IA).*
 
 ---
 
@@ -51,7 +51,7 @@
 * 🧩 **Programación de PLC Logo!** (Gama básica de Siemens)
 * 🏭 **Programación de PLC Siemens con TIA Portal**
 * 📺 **Programación de pantallas HMI Siemens con TIA Portal**
-* 🎙️ **Programación de PLC con Allen Bradley** (En VIVO)
+* ✅ **Programación de PLC con Allen Bradley** (En VIVO)
 * 🌀 **Lazos de control PID con TIA Portal** (Requiere matemáticas y control avanzado)
 
 ---
