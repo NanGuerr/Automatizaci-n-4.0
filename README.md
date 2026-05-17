@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/Smart-Factory-Expert/refs/heads/main/assets/banner-smart-factory.png" width="100%">
-</p>
 
 # 🏭Smart Factory Expert - Industria 4.0
 
 Apuntes, ejercicios y proyectos desarrollados sobre **Automatización e Industria 4.0**. El objetivo es documentar el camino hacia la especialización en fábricas inteligentes, integrando tecnologías de IT (Tecnologías de la Información) y OT (Tecnologías de Operación).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Smart-Factory-Expert/refs/heads/main/assets/banner-smart-factory.png" width="100%">
+</p>
 
 ## 🚀 Áreas de Especialización
 
