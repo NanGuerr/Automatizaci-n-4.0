@@ -18,8 +18,8 @@
 *La base para la automatización industrial.*
 
 * ✅ **Iniciación a la electrónica**
-* 🏗️ **Iniciación a la Electricidad Industrial**
-* 📜 **Lectura e interpretación de planos eléctricos industriales**
+* ✅ **Iniciación a la Electricidad Industrial**
+* ✅ **Lectura e interpretación de planos eléctricos industriales**
 * ✅ **Diseño y simulación de planos eléctricos industriales con CADESIMU**
 
 ---
