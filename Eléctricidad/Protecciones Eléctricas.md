@@ -8,9 +8,6 @@
 - [ ] Solamente arrancar un motor trifásico lentamente
 
 **Respuesta correcta:** Arrancar y parar un motor trifásico lentamente
-**Puntuación:** 1 / 1
-
----
 
 ## 2. Protección contra Sobretensiones Permanentes 🛡️
 **Pregunta:** Si tengo una sobretensión de un 20% permanente en mi instalación, ¿Cómo la puedo proteger?
@@ -20,9 +17,6 @@
 - [ ] Utilizando un descargador de sobre tensión
 
 **Respuesta correcta:** Utilizando un relé de protección contra sobre y subtensión
-**Puntuación:** 1 / 1
-
----
 
 ## 3. Capacidades del Variador de Velocidad 🚀
 **Pregunta:** El variador de velocidad permite: (respuesta múltiple)
@@ -32,9 +26,6 @@
 - [ ] Solamente parar un motor trifásico lentamente
 
 **Respuesta correcta:** Arrancar y parar un motor trifásico lentamente, Variar la velocidad de giro de un motor trifásico
-**Puntuación:** (Correcto)
-
----
 
 ## 4. Uso de Descargadores Tipo 3 🌩️
 **Pregunta:** Los descargadores tipo 3, se utilizan para:
@@ -44,9 +35,6 @@
 - [ ] Protección térmica para motores trifásicos
 
 **Respuesta correcta:** Proteger cargas sensibles, luego de que la instalación ya cuente con descargador Tipo 1 y Tipo 2
-**Puntuación:** 0 / 1
-
----
 
 ## 5. Factores para la Instalación de Protección contra Sobretensiones Transitorias 🔌
 **Pregunta:** ¿Qué factores se deben tomar en cuenta para la instalación de protección contra sobre tensiones transitorias?
@@ -56,9 +44,6 @@
 - [ ] Nivel de criticidad de la instalación
 
 **Respuesta correcta:** Si tengo en mi instalación motores
-**Puntuación:** 1 / 1
-
----
 
 ## 6. Rayos y Sobretensiones Permanentes ⚡
 **Pregunta:** Un rayo puede producir sobretensiones permanentes
@@ -66,9 +51,6 @@
 - [x] Falso
 
 **Respuesta correcta:** Falso
-**Puntuación:** (Correcto)
-
----
 
 ## 7. Eficacia de los Varistores 💡
 **Pregunta:** Los varistores son muy ineficaces para la protección de sobretensiones prolongadas
@@ -76,9 +58,6 @@
 - [ ] Falso
 
 **Respuesta correcta:** Verdadero
-**Puntuación:** 1 / 1
-
----
 
 ## 8. Funcionamiento del Variador de Frecuencia 🔄
 **Pregunta:** En los variadores de frecuencia la corriente alterna es rectificada y convertida a continua y luego en un circuito inversor se convierte en trifásica.
@@ -86,4 +65,3 @@
 - [ ] Falso
 
 **Respuesta correcta:** Verdadero
-**Puntuación:** (Correcto)
