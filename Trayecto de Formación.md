@@ -30,7 +30,7 @@
 * 🖥️ **Diseño de planos eléctricos industriales con EPLAN 2.7/2.9**
 * 🏢 **Diseño de planos eléctricos industriales con EPLAN 2022/23**
 * 📐 **Diseño de planos eléctricos industriales con AutoCAD Electrical**
-* ☁️ **Introducción a Cloud Computing con GCloud**
+* ✅ **Introducción a Cloud Computing con GCloud**
 ---
 
 ## 🐍 Programación y Software (IT)
@@ -59,7 +59,7 @@
 ##  🌐 Redes, Ciberseguridad y Conectividad
 *La unión entre el taller (OT) y la oficina (IT).*
 
-* 🐳 **Virtualización y Docker**
+* ✅ **Virtualización y Docker**
 * ✅ **Introducción a la robótica: Programación con Robotstudio ABB**
 * 🛡️ **Ciberseguridad Industrial – Nivel 1**
 * 🔐 **Ciberseguridad Industrial – Nivel 2**
